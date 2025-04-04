@@ -23,6 +23,7 @@
 2. Create a `.env` file and add your [Together AI API key](https://togetherai.link/?utm_source=example-app&utm_medium=llamacoder&utm_campaign=llamacoder-app-signup): `TOGETHER_API_KEY=`
 3. Run `npm install` and `npm run dev` to install dependencies and run locally
 4. If you want to use Ollama: set `OLLAMA_BASE_URL` and install and run a model.
+5.Donwload gemm3:12b: `ollama run gemma3:12b`
 
 ## Contributing
 
